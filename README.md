@@ -1,8 +1,12 @@
 # Hi there, I´m Wizarsy 👋
 
 ## About me
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![postgressql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Tecnoligies
+
 ![Wizarsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizarsy&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact&theme=tokyonight)
 
