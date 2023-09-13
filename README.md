@@ -1,7 +1,11 @@
 # Hi there, I´m Wizarsy 👋
 
+## About me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![postgressql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Wizarsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizarsy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact&theme=tokyonight&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact&theme=tokyonight)
+
 <!--
 **Wizarsy/wizarsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
