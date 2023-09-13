@@ -1,6 +1,6 @@
 # Hi there, I´m Wizarsy 👋
 
-[![Wizarsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizarsy)](https://github.com/anuraghazra/github-readme-stats)
+![Wizarsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizarsy&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact)
 <!--
 **Wizarsy/wizarsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
