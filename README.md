@@ -1,15 +1,16 @@
-# Hi there, I´m Wizarsy 👋
+# 👋 Hi there, I´m Wizarsy
 
-## Social
+I'm Filipe Madruga but you can call me Wizarsy, I'm passionate about software development, I'm an Information Systems student at the Federal University of Rio Grande - FURG.
+
+## 🌐 Socials
 
 <div>
   <a href = "https://linktr.ee/wizarsy" target = "_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
   <a href = "https://github.com/Wizarsy" target = "_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/filipemadruga/" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://linktr.ee/wizarsy" target = "_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
-</div>
+  </div>
 
-## My Stacks
+## 💻 My Stacks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +30,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Studing
+## 📚 I’m learning
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -53,24 +54,9 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## My stats
+## 📈 My stats
 
 <div>
-  <img src = "https://github-readme-stats.vercel.app/api?username=wizarsy&show_icons=true&theme=neon", alt = "Wizarsy's GitHub stats" width = "350px">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact&theme=neon" alt = "Wizarsy's Top Lang" width = "265px">  
+  <img src = "https://github-readme-stats.vercel.app/api?username=wizarsy&show_icons=true&theme=neon", alt = "Wizarsy's GitHub stats" height = "180em">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=wizarsy&layout=compact&theme=neon" alt = "Wizarsy's Top Lang" height = "180em">  
 </div>
-
-<!--
-**Wizarsy/wizarsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
