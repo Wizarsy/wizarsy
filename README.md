@@ -1,7 +1,5 @@
 # 👋 Hi there, I´m Wizarsy
 
-Hello, I'm Wizarsy 👋
-
 I'm Filipe Madruga, but you can call me Wizarsy, I'm passionate about software development, today I'm an Information Systems student at the Federal University of Rio Grande - FURG but immersed in this world of 0 and 1 for longer than graduation. I am extremely curious and dedicated to seeking knowledge and improving my knowledge, so I am always seeking to know more and more to stand out and show myself as someone worth having on the team. As I am still learning a lot, I am always concerned about taking my responsibilities seriously and having the necessary knowledge for any opportunity that arises.
 
 That's just a little about me and nice to meet you.
